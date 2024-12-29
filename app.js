@@ -29,11 +29,7 @@ const Div1 = () => {
   return (
     <div className="parent">
       <div className="child">
-<<<<<<< HEAD
         <h1 className="header">This is a simple header1😍</h1>
-=======
-        <h1 className="header">This is a simple header1...</h1>
->>>>>>> 5b4cf0bc3228acf1a4308eb069a1d30dbb38048e
       </div>
     </div>
   );
