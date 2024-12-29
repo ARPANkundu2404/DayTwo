@@ -29,7 +29,7 @@ const Div1 = () => {
   return (
     <div className="parent">
       <div className="child">
-        <h1 className="header">This is a simple header1💕</h1>
+        <h1 className="header">This is a simple header1😍</h1>
       </div>
     </div>
   );
